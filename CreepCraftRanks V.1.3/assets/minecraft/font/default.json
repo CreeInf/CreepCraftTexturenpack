@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vipbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/devlbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/adminbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/betacreep.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/builderbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/memberbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/buildercreep.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },     {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admincreeper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },   
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/staffcreeper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/modlbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+              {
+            "type": "bitmap",
+            "file": "minecraft:ranks/chargedcreeper1.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+              {
+            "type": "bitmap",
+            "file": "minecraft:ranks/chargedcreeper2.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+              {
+            "type": "bitmap",
+            "file": "minecraft:ranks/chargedcreeper3.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        }
+    ]
+}
